@@ -3,7 +3,7 @@
 [link]: https://www.linkedin.com/in/oscar-alberto-jimenez-arevalo/
 
 ```diff
-Mining engenierring and python developer
+Mining engineering and python developer
 ```
 
 - :smile: I’m working in DATAGEO SPA. 
